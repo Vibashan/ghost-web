@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../ovis-web"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../nerfies.github.io"
+		}
+	],
+	"settings": {}
+}
